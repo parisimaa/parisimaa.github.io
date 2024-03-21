@@ -14,7 +14,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 Embedded in my DNA is the spirit of an engineer, a calling that's guided me from childhood wonders to the complexities of today's AI challenges. My early years were a blend of curiosity and adventure, marked by a cherished collection of screwdrivers and countless hours spent disassembling computers—driven by a boundless desire to understand how they ticked. If a spaceship had ever landed in my path, I wouldn't have hesitated to explore its inner workings, fueled by the same insatiable curiosity. 
