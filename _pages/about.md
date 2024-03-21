@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>parisima.abdali@nyu.edu.
 
 profile:
   align: right
@@ -11,13 +11,12 @@ profile:
   more_info: >
     <p>New York City, NY</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Embedded in my DNA is the spirit of an engineer, a calling that's guided me from childhood wonders to the complexities of today's AI challenges. My early years were a blend of curiosity and adventure, marked by a cherished collection of screwdrivers and countless hours spent disassembling computers—driven by a boundless desire to understand how they ticked. If a spaceship had ever landed in my path, I wouldn't have hesitated to explore its inner workings, fueled by the same insatiable curiosity. Today, that journey has led me to the bustling heart of New York City, where I'm immersed in solving some of the AI domain's most intricate puzzles, all from the comfort of my laptop. As I look forward to graduating with a ***Master's degree in Electrical and Computer Engineering from New York University***, I can't wait to venture further into the vast world of technology. `It's been quite the ride, and I'm just getting started`.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, I'm spearheading an innovative project in the Generative AI domain, with a special focus on Medical Imaging.. This project represents a pioneering collaboration between the NYU Langone Health's Radiology Department's Rapid Lab and the NYU Tandon School of Engineering's [Video Lab](https://wp.nyu.edu/videolab/people/). Under the guidance of [Dr. Li Feng](https://med.nyu.edu/faculty/li-feng) and [Dr. Yao Wang](https://engineering.nyu.edu/faculty/yao-wang), our team is pushing the boundaries of what's possible in medical technology. It's a privilege to lead this project, as we work diligently towards publishing our groundbreaking achievements.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them
