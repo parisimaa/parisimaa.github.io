@@ -2,7 +2,7 @@
 layout: page
 permalink: /Teaching/
 title: teaching
-description: My Teacher Assisstant possitions
+description: My experience as Teacher Assisstant
 nav: true
 nav_order: 6
 ---
