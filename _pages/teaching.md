@@ -22,7 +22,7 @@ nav_order: 6
 </ul>
 -->
 <h3>CS-GY 6953 -- Deep Learning</h3>
-<h5> Spring 2022, NYU Courant Institute of Mathematical Sciences, US </h5>
+<h5> Fall 2023 - Present, NYU Courant Institute of Mathematical Sciences, US </h5>
 <ul>
     <li>Partnered with fellow TAs to launch a Deep Learning (DL) project competition, significantly enriching the course by integrating a hands-on, practical component that challenged students.</li>
     <li>Mentored students through the development and execution of their proposals, offering expert technical support and conducting regular progress evaluations during weekly office hours to ensure their projects were on track and meeting learning objectives.</li>
