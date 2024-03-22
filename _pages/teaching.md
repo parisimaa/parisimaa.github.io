@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /Teaching/
-title: teaching
+permalink: /teaching/
+title: Teaching
 description: My experience as Teacher Assisstant
 nav: true
 nav_order: 6
