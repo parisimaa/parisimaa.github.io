@@ -1,10 +1,10 @@
 ---
 layout: page
-title: PokeGAN
+title: MR Image Synthesis
 description: 
-img: assets/img/pock.png
+img: assets/img/CCL.png
 redirect: https://unsplash.com
-importance: 3
+importance: 1
 category: work
 ---
 <!--

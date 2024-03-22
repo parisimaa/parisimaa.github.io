@@ -1,10 +1,10 @@
 ---
 layout: page
-title: PokeGAN
+title: MRI Reconstruction
 description: 
-img: assets/img/pock.png
+img: assets/img/MS.png
 redirect: https://unsplash.com
-importance: 3
+importance: 4
 category: work
 ---
 <!--
