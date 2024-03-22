@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /Teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: My Teacher Assisstant possitions
 nav: true
 nav_order: 6
 ---
@@ -21,6 +21,15 @@ nav_order: 6
     <li>Helped evaluate lab submissions of six hundread students.</li>
 </ul>
 -->
+<h3>CS-GY 6953 -- Deep Learning</h3>
+<h5> Spring 2022, NYU Courant Institute of Mathematical Sciences, US </h5>
+<ul>
+    <li>Partnered with fellow TAs to launch a Deep Learning (DL) project competition, significantly enriching the course by integrating a hands-on, practical component that challenged students.</li>
+    <li>Mentored students through the development and execution of their proposals, offering expert technical support and conducting regular progress evaluations during weekly office hours to ensure their projects were on track and meeting learning objectives.</li>
+    <li> Facilitated advanced learning by teaching students how to implement sophisticated deep learning projects within distributed systems, leveraging High-Performance Computing (HPC) resources.</li>
+</ul>
+`Python` `PyTorch` `Tensorflow` `Computer Vision` `LLMs` `HPC`
+
 <h3>Digital Signal Processing 1</h3>
 <h5> Fall 2021 - Spring 2022, IKI University, Iran </h5>
 <ul>
