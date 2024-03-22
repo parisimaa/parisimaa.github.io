@@ -1,9 +1,9 @@
 ---
 layout: page
 title:  Total Variation Denoising
-description: a project with a background image
+description: 
 img: assets/img/Noise.png
-importance: 1
+importance: 5
 category: work
 related_publications: true
 ---
