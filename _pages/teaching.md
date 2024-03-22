@@ -21,16 +21,21 @@ nav_order: 6
     <li>Helped evaluate lab submissions of six hundread students.</li>
 </ul>
 -->
+<h3>Digital Signal Processing 1</h3>
+<h5> Fall 2021 - Spring 2022, IKI University, Iran </h5>
+<ul>
+    <li>Led weekly recitation sessions to reinforce key course concepts.</li>
+    <li>Crafted engaging computer-based assignments in MATLAB, covering a broad spectrum of topics.</li>
+    <li> Oversaw the coordination of tasks among teaching assistants, ensuring a unified and impactful teaching approach.</li>
+</ul>
+`MATLAB`
 
 <h3>Digital Systems Design 1</h3>
 <h5> Spring 2019 - Spring 2020, IKI University, Iran </h5>
 <ul>
-    <li>Helped in developing curriculum with other TAs and the professor in weekly meetings. </li>
-    <li>Created and designed comprehensive assignments as well as computer tasks in `Verilog` programming language.</li>
-   <!-- <ul>
-        <li>Kubernetes: Covered pod creation, deletion, self-healing, scaling and rollbacks.</li>
-        <li>Amazon DynamoDB: A quide containing supplementary materials to complete the Introduction to Amazon DynamoDB qwiklab.</li>
-    </ul> -->
-    <li> Coordinated weekly recitation sessions to clarify complex topics and deepen student understanding.</li>
-    <li>Supervised the academic progress of over 300 students.</li>
+    <li>Collaborated with faculty and fellow TAs in weekly meetings to enhance the curriculum. </li>
+    <li>Designed and developed written assignments and computer-based tasks using Verilog programming language.</li>
+    <li> Led weekly recitation sessions to demystify complex topics, employing interactive teaching methods that fostered deeper understanding and engagement among students.</li>
+    <li>Oversaw the academic progress of over 300 students, implementing personalized feedback mechanisms.</li>
 </ul>
+`Verilog`
