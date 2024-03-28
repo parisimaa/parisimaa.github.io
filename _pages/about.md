@@ -9,7 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>277 E 30th St</p>
     <p>New York City, NY</p>
 
 news: false # includes a list of news items
