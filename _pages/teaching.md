@@ -33,8 +33,8 @@ nav_order: 6
 <h3>CS-GY 6923 -- Machine Learning</h3>
 <h5> Spring 2024 - Present, NYU Courant Institute of Mathematical Sciences, US </h5>
 <ul>
-    <li></li>
-    <li></li>
+    <li>Collaborated with fellow TAs in preparing lab coding exercises, enhancing the practical learning experience for students by offering diverse and programming tasks.</li>
+    <li>Conducted weekly office hours to address students' technical and theoretical questions, fostering a supportive learning environment.</li>
 </ul>
 `Python` `Pattern Recognition` `Classification` `Statistical Analysis` `Decision Making` `Regression` `SVM`
 
