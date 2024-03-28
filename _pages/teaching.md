@@ -24,7 +24,7 @@ nav_order: 6
 <h3>CS-GY 6953 -- Deep Learning</h3>
 <h5> Fall 2023 - Present, NYU Courant Institute of Mathematical Sciences, US </h5>
 <ul>
-    <li> Led with fellow TAs to launch a Deep Learning (DL) Kaggle project competition, significantly enriching the course by integrating a hands-on, practical component that challenged students.</li>
+    <li> Led alongside fellow TAs in launching a Deep Learning (DL) Kaggle project competition, significantly enriching the course with a hands-on, practical component that engaged students in challenges.</li>
     <li>Mentored students through the development and execution of their proposals, offering expert technical support and conducting regular progress evaluations during weekly office hours to ensure their projects were on track and meeting learning objectives.</li>
     <li> Facilitated advanced learning by teaching students how to implement sophisticated deep learning projects within distributed systems, leveraging High-Performance Computing (HPC) resources.</li>
 </ul>
