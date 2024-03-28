@@ -30,6 +30,14 @@ nav_order: 6
 </ul>
 `Python` `PyTorch` `Tensorflow` `Computer Vision` `LLMs` `HPC`
 
+<h3>CS-GY 6923 -- Machine Learning</h3>
+<h5> Spring 2024 - Present, NYU Courant Institute of Mathematical Sciences, US </h5>
+<ul>
+    <li></li>
+    <li></li>
+</ul>
+`Python` `Pattern Recognition` `Classification` `Statistical Analysis` `Decision Making` `Regression` `SVM`
+
 <h3>Digital Signal Processing 1</h3>
 <h5> Fall 2021 - Spring 2022, IKI University, Iran </h5>
 <ul>
