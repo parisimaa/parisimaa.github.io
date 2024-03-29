@@ -24,11 +24,19 @@ nav_order: 6
 <h3>CS-GY 6953 -- Deep Learning</h3>
 <h5> Fall 2023 - Present, NYU Courant Institute of Mathematical Sciences, US </h5>
 <ul>
-    <li>Partnered with fellow TAs to launch a Deep Learning (DL) project competition, significantly enriching the course by integrating a hands-on, practical component that challenged students.</li>
+    <li> Led alongside fellow TAs in launching a Deep Learning (DL) Kaggle project competition, significantly enriching the course with a hands-on, practical component that engaged students in challenges.</li>
     <li>Mentored students through the development and execution of their proposals, offering expert technical support and conducting regular progress evaluations during weekly office hours to ensure their projects were on track and meeting learning objectives.</li>
     <li> Facilitated advanced learning by teaching students how to implement sophisticated deep learning projects within distributed systems, leveraging High-Performance Computing (HPC) resources.</li>
 </ul>
 `Python` `PyTorch` `Tensorflow` `Computer Vision` `LLMs` `HPC`
+
+<h3>CS-GY 6923 -- Machine Learning</h3>
+<h5> Spring 2024 - Present, NYU Courant Institute of Mathematical Sciences, US </h5>
+<ul>
+    <li>Collaborated with fellow TAs in preparing lab coding exercises, enhancing the practical learning experience for students by offering diverse and programming tasks.</li>
+    <li>Conducted weekly office hours to address students' technical and theoretical questions, fostering a supportive learning environment.</li>
+</ul>
+`Python` `Pattern Recognition` `Classification` `Statistical Analysis` `Decision Making` `Regression` `SVM`
 
 <h3>Digital Signal Processing 1</h3>
 <h5> Fall 2021 - Spring 2022, IKI University, Iran </h5>

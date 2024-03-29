@@ -1,10 +1,10 @@
 ---
 layout: page
-title: PokeGAN
+title: Data Analysis
 description: 
-img: assets/img/pock.png
+img: assets/img/poster.png
 redirect: https://unsplash.com
-importance: 3
+importance: 6
 category: work
 ---
 <!--
