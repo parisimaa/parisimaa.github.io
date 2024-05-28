@@ -22,7 +22,7 @@ nav_order: 6
 </ul>
 -->
 <h3>CS-GY 6953 -- Deep Learning</h3>
-<h5> Fall 2023 - Present, NYU Courant Institute of Mathematical Sciences, US </h5>
+<h5> Sept. 2023 - May. 2024, NYU Courant Institute of Mathematical Sciences, US </h5>
 <ul>
     <li> Led alongside fellow TAs in launching a Deep Learning (DL)<a href= 'https://www.kaggle.com/competitions/deep-learning-mini-project-spring-24-nyu/overview'> Kaggle </a> a project competition, significantly enriching the course with a hands-on, practical component that engaged students in challenges.</li>
     <li>Mentored students through the development and execution of their proposals, offering expert technical support and conducting regular progress evaluations during weekly office hours to ensure their projects were on track and meeting learning objectives.</li>
@@ -31,7 +31,7 @@ nav_order: 6
 `Python` `PyTorch` `Tensorflow` `Computer Vision` `LLMs` `HPC`
 
 <h3>CS-GY 6923 -- Machine Learning</h3>
-<h5> Spring 2024 - Present, NYU Courant Institute of Mathematical Sciences, US </h5>
+<h5> Dec. 2024 - May. 2024, NYU Courant Institute of Mathematical Sciences, US </h5>
 <ul>
     <li>Collaborated with fellow TAs in preparing lab coding exercises, enhancing the practical learning experience for students by offering diverse and programming tasks.</li>
     <li>Conducted weekly office hours to address students' technical and theoretical questions, fostering a supportive learning environment.</li>
@@ -39,7 +39,7 @@ nav_order: 6
 `Python` `Pattern Recognition` `Classification` `Statistical Analysis` `Decision Making` `Regression` `SVM`
 
 <h3>Digital Signal Processing 1</h3>
-<h5> Fall 2021 - Spring 2022, IKI University, Iran </h5>
+<h5> Sept. 2021 - May. 2022, IKI University, Iran </h5>
 <ul>
     <li>Led weekly recitation sessions to reinforce key course concepts.</li>
     <li>Crafted engaging computer-based assignments in MATLAB, covering a broad spectrum of topics.</li>
@@ -48,7 +48,7 @@ nav_order: 6
 `MATLAB`
 
 <h3>Digital Systems Design 1</h3>
-<h5> Spring 2019 - Spring 2020, IKI University, Iran </h5>
+<h5> Dec 2019 - May 2020, IKI University, Iran </h5>
 <ul>
     <li>Collaborated with faculty and fellow TAs in weekly meetings to enhance the curriculum. </li>
     <li>Designed and developed written assignments and computer-based tasks using Verilog programming language.</li>
