@@ -23,6 +23,7 @@ nav_order: 6
 -->
 <h3>CS-GY 6953 -- Deep Learning</h3>
 <h5> Sept. 2023 - May. 2024 | NYU Courant Institute of Mathematical Sciences, US </h5>
+<p>Instructed by Prof. Gustavo Sandoval and Prof. Chinmay Hegde <p>
 <ul>
     <li> Led alongside fellow TAs in launching a Deep Learning (DL)<a href= 'https://www.kaggle.com/competitions/deep-learning-mini-project-spring-24-nyu/overview'> Kaggle </a> a project competition, significantly enriching the course with a hands-on, practical component that engaged students in challenges.</li>
     <li>Mentored students through the development and execution of their proposals, offering expert technical support and conducting regular progress evaluations during weekly office hours to ensure their projects were on track and meeting learning objectives.</li>
